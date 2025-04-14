@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pyinstrumentor"
+version = "0.1.0"
+description = "Automatic function instrumentation using Prometheus"
+readme = "README.md"
+authors = [{ name = "Your Name", email = "your@email.com" }]
+license = { text = "MIT" }
+dependencies = ["prometheus_client>=0.16.0"]
+
+[project.urls]
+Homepage = "https://github.com/yourusername/pyinstrumentor"
+Source = "https://github.com/yourusername/pyinstrumentor"

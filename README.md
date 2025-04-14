@@ -1,3 +1,3 @@
 # PyInstrumentor
 
-Automatic function instrumentation using Prometheus.
+Automatic function instrumentation using Prometheus.# pyinstrumentor
