@@ -1,5 +1,5 @@
 [build-system]
-requires = ["setuptools>=61.0", "wheel"]
+requires = ["setuptools>=67.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
@@ -15,12 +15,7 @@ authors = [
 dependencies = [
   "prometheus_client>=0.16.0"
 ]
-classifiers = [
-  "Programming Language :: Python :: 3",
-  "License :: OSI Approved :: MIT License",
-  "Operating System :: OS Independent"
-]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/pyinstrumentor"
-Source = "https://github.com/yourusername/pyinstrumentor"
+Homepage = "https://github.com/nanubau/pyinstrumentor"
+Source = "https://github.com/nanubau/pyinstrumentor"
